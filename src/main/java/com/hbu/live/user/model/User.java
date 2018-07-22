@@ -3,7 +3,7 @@ package com.hbu.live.user.model;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
-import org.hibernate.cfg.ImprovedNamingStrategy;
+
 
 
 import javax.persistence.*;
